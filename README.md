@@ -4,7 +4,7 @@ Repo Link - https://git.cs.dal.ca/yna/csci5409-group2-apigateway-lambdaauth<br/>
 
 - _Date Created_: 06 April 2021
 - _Last Modification Date_: 06 April 2021
-- _API_URL_: https://7fvj26m2nb.execute-api.us-east-1.amazonaws.com/lambdaAuthPy/
+- _API_URL_: https://7fvj26m2nb.execute-api.us-east-1.amazonaws.com/lambdaAuthPy
 
 ## Authors
 
