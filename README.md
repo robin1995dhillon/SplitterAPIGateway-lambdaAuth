@@ -1,4 +1,4 @@
-# CLOUD-OF-DUTY-APIGATEWAY-LAMBDAAUTH
+# GROUP2-CLOUD-OF-DUTY-APIGATEWAY-LAMBDAAUTH
 
 Repo Link - https://git.cs.dal.ca/yna/csci5409-group2-apigateway-lambdaauth<br/>
 
